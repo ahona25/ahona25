@@ -80,24 +80,15 @@
   </a>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="GitHub Stats"
+    src="https://streak-stats.demolab.com?user=ahona25&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
     width="100%"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-    width="100%"
-  />
-</p>
-
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
