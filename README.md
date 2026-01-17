@@ -2,11 +2,11 @@
 
 <h4 align="left">
 💫 <b>About Me:</b><br><br>
-👋 Hi, I’m <b>Azizul Islam</b>.<br><br>
+👋 Hi, I’m <b>Tasnim Binte Monir</b>.<br><br>
 🔭 I’m currently a <b>Student of Software Engineering</b>.<br>
 🌱 I’m learning <b>C, Java, Python, Cyber Security Management</b>.<br>
-🛡️ I actively practice on <b>TryHackMe</b> and <b>Hack The Box</b>.<br>
-⚡ Exploring <b>Network Security</b> and building responsive applications using
+🛡️
+⚡ Exploring <b>Data Science</b> and building responsive applications using
 <b>React, Next.js & Node.js</b>.<br>
 📫 I believe in <b>learning by building</b> and improving step-by-step.
 </h4>
@@ -62,16 +62,16 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
-  <a href="https://www.facebook.com/share/1Cq1sEEL9k/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/e_f_a_t_h/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/azizulislamefath/" target="_blank">
+ <a href="https://www.linkedin.com/in/tasnimbintamonir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:azizulislam5360@gmail.com">
+  <a href="https://www.facebook.com/share/14TAza3LvLP/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_arohi_ahonaaa_/?utm_source=ig_web_button_share_sheet" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:tasnimahona00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
