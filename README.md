@@ -82,13 +82,17 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ahona25&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-    width="100%"
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=ahona25&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
   />
-</p>
+  <img
+    src="https://streak-stats.demolab.com?user=ahona25&hide_border=true"
+    alt="GitHub Streak Stats"
+    style="max-width:100%;"
+  />
+</picture>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
