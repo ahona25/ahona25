@@ -19,8 +19,6 @@
   />
 </div>
 
----
-
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
@@ -65,8 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30"/>
 </div>
 
----
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
@@ -84,23 +80,21 @@
   </a>
 </div>
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="GitHub Stats"
-    style="max-width:100%; height:auto;"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
     alt="Top Languages"
-    style="max-width:100%; height:auto;"
+    width="100%"
   />
 </p>
 
