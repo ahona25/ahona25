@@ -4,7 +4,7 @@
 💫 <b>About Me:</b><br><br>
 👋 Hi, I’m <b>Tasnim Binte Monir</b>.<br><br>
 🔭 I’m currently a <b>Student of Software Engineering</b>.<br>
-🌱 I’m learning <b>C, Java, Python, Cyber Security Management</b>.<br>
+🌱 I’m learning <b>C, Java, Python</b>.<br>
 🛡️
 ⚡ Exploring <b>Data Science</b> and building responsive applications using
 <b>React, Next.js & Node.js</b>.<br>
