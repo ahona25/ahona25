@@ -12,7 +12,7 @@
 </h4>
 
 <div align="center">
-  <img height="150" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV3OG45ZWg3ZnM5Z3JwYzU5YjNsMGJidnE2Mm9oNHVrYjJ0ejJteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/200.webp"/>
 </div>
 
 <h2 align="left">🛠️ Tech Stack</h2>
