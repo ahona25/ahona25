@@ -5,15 +5,21 @@
 👋 Hi, I’m <b>Tasnim Binte Monir</b>.<br><br>
 🔭 I’m currently a <b>Student of Software Engineering</b>.<br>
 🌱 I’m learning <b>C, Java, Python</b>.<br>
-🛡️
-⚡ Exploring <b>Data Science</b> and building responsive applications using
+🛡️ Exploring <b>Data Science</b> and building responsive applications using
 <b>React, Next.js & Node.js</b>.<br>
-📫 I believe in <b>learning by building</b> and improving step-by-step.
+⚡ I believe in <b>learning by building</b> and improving step-by-step.<br>
+📫 Let’s grow together!
 </h4>
 
 <div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV3OG45ZWg3ZnM5Z3JwYzU5YjNsMGJidnE2Mm9oNHVrYjJ0ejJteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/200.webp"/>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV3OG45ZWg3ZnM5Z3JwYzU5YjNsMGJidnE2Mm9oNHVrYjJ0ejJteiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11JTxkrmq4bGE0/200.webp"
+    alt="Coding Girl"
+    style="max-width:100%; height:auto;"
+  />
 </div>
+
+---
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
@@ -59,16 +65,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30"/>
 </div>
 
+---
+
 <h2 align="left">🌐 Connect With Me</h2>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/tasnimbintamonir?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/tasnimbintamonir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/share/14TAza3LvLP/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_arohi_ahonaaa_/?utm_source=ig_web_button_share_sheet" target="_blank">
+  <a href="https://www.instagram.com/_arohi_ahonaaa_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:tasnimahona00@gmail.com">
@@ -76,21 +84,34 @@
   </a>
 </div>
 
-<h2 align="left">📊 GitHub Stats </h2>
+---
 
-<div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azizul-Islam-Efath&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    style="max-width:100%; height:auto;"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azizul-Islam-Efath&layout=compact&theme=dark"
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark"
+    alt="Top Languages"
+    style="max-width:100%; height:auto;"
   />
-</div>
+</p>
 
-<h2 align="center">🐍 Contribution Snake </h2>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Azizul-Islam-Efath/Azizul-Islam-Efath/output/github-contribution-grid-snake.svg" />
-</div>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ahona25/ahona25/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+    style="max-width:100%; height:auto;"
+  />
+</p>
