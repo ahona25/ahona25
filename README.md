@@ -90,7 +90,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=ahona25&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
     style="max-width:100%; height:auto;"
   />
@@ -98,13 +98,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahona25&layout=compact&theme=dark&hide_border=true"
     alt="Top Languages"
     style="max-width:100%; height:auto;"
   />
 </p>
 
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
